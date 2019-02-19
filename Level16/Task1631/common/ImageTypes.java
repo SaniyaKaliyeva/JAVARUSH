@@ -1,0 +1,16 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package Level16.Task1631.common;
+
+/**
+ *
+ * @author macbookair
+ */
+public enum ImageTypes {
+    BMP,
+    JPG,
+    PNG
+}
